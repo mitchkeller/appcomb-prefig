@@ -4,9 +4,7 @@
     <!-- <rectangle lower-left="(0,0)" dimensions="(15,10)"
     fill="green"/> -->
     <network directed="no" scale="0.8"
-          node-fill="yellow" node-stroke="black"
-          seed="10" labels="yes" rotate="90"
-          tactile-node-size="30" node-size="10" >
+             seed="10" labels="yes" rotate="90">
           <node at="1" edges="[9,7,12]"><m>a</m></node>
           <node at="2" edges="[3,6,10,11]"><m>b</m></node>
           <node at="3" edges="[9,8,11]"><m>c</m></node>

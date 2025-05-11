@@ -5,6 +5,10 @@
   <graph stroke="green"/>
 
   -->
+  <network node-fill="#EFCB7A"
+	   node-stroke="black"
+	   tactile-node-size="30"
+	   node-size="13"/>
 
   <!-- Add latex macros -->
   <macros>
